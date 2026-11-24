@@ -1,0 +1,20 @@
+{
+  "name": "devstream-cli",
+  "version": "1.0.0",
+  "description": "Modern developer workflow automation & scaffolding CLI engine",
+  "type": "module",
+  "bin": {
+    "devstream": "./src/index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "developer-tools",
+    "automation",
+    "cli",
+    "nodejs"
+  ],
+  "author": "Suman Mehta",
+  "license": "MIT"
+}
